@@ -1,4 +1,4 @@
-Name: Mustafa Al-Sakkaf
+Name: Mustafa Al-Sakkaf<br>
 This is a take-home exam that Software For Love asked me to complete by Saturday (Feb. 5, 2022)
 
 
