@@ -1,3 +1,11 @@
+Name: Mustafa Al-Sakkaf
+This is a take-home exam that Software For Love asked me to complete by Saturday (Feb. 5, 2022)
+
+
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
